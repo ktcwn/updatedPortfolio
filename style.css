@@ -41,6 +41,16 @@ img#icon {
   margin: 10px;
 }
 
+.card.text-center {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-img-top {
+  display: flex;
+  justify-items: center;
+}
 /** Footer **/
 footer {
   display: flex;
